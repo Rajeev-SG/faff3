@@ -1,0 +1,32 @@
+[
+  {
+    "name": "desktop",
+    "title": "From AI Pilots to Clear Business Value • Rajeev G.",
+    "h1": "From AI Pilots to Clear Business Value",
+    "consoleErrors": [
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 404 (Not Found)"
+      }
+    ],
+    "consoleWarnings": [],
+    "mentionsWorkflowReview": true,
+    "mentionsFirstUseCase": true,
+    "mentionsSources": true
+  },
+  {
+    "name": "mobile",
+    "title": "From AI Pilots to Clear Business Value • Rajeev G.",
+    "h1": "From AI Pilots to Clear Business Value",
+    "consoleErrors": [
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 404 (Not Found)"
+      }
+    ],
+    "consoleWarnings": [],
+    "mentionsWorkflowReview": true,
+    "mentionsFirstUseCase": true,
+    "mentionsSources": true
+  }
+]
