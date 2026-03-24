@@ -29,6 +29,8 @@ The supporting research and interpretation behind the recommendations.
 
 - `market-findings.md`
   Summary of the external market evidence and what it implies for faff3's commercial proposition.
+- `github-review-gh05t-97-pr-4.md`
+  Review note for `GH05T-97/faff3-backend-revamp` PR `#4`, including the submitted blocking findings and the reasoning behind them.
 
 ### `output/`
 
